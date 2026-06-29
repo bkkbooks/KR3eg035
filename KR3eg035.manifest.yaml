@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR3eg035/v1
+canonical_location: https://kanripo.org/bkk/KR3eg035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 辨疫瑣言
+  identifiers:
+    krp: KR3eg035
+  tags:
+    kr-categories: KR3eg
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg035.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:28376c723614a96dccb319b3830ac8741a11ed59771da0b9fca81ba048520f01'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:c493a878b5b2a70b5f467a4523718c24ff8a96319025d1f1ad7b287c3acec6e6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eg035_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5657
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg035_jc_000-d3.h1s1
+    span:
+    - body
+    - 5657
+    - 7530
+  label: 李翁醫記上
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg035_jc_000-d4.h1s1
+    span:
+    - body
+    - 7530
+    - 9591
+  label: 李翁醫記下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eg035_jc_000-d5.h1s1
+    span:
+    - body
+    - 9591
+    - 10585
+  label: 名醫李君墓誌銘
+  type: section
+  level: 1
+hash: sha256:1a7aa5484b3ae5075d10b6026c1a31ec29d7de8a6ce01e24ea1dcd8541dbd9b9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
