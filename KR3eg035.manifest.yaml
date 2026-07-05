@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:28376c723614a96dccb319b3830ac8741a11ed59771da0b9fca81ba048520f01'}
+  - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:6b5505d9bc34921d40bb4517c337a9da0a4a9872cfd8483e0ffdb4d8784c3dd7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:c493a878b5b2a70b5f467a4523718c24ff8a96319025d1f1ad7b287c3acec6e6'}
+  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:fc6f5d4371f1fb0bb6ff54fbdac37aed6fd420b0b21afbca0029f67262508182'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,4 @@ table_of_contents:
   label: 名醫李君墓誌銘
   type: section
   level: 1
-hash: sha256:1a7aa5484b3ae5075d10b6026c1a31ec29d7de8a6ce01e24ea1dcd8541dbd9b9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:76b4d9ab94453079ea64f91fe406f27fee4888f38c515c226b1b92b1fbbeaead
