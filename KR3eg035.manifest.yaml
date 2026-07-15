@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eg035/v1
 canonical_location: https://kanripo.org/bkk/KR3eg035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 辨疫瑣言
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:6b5505d9bc34921d40bb4517c337a9da0a4a9872cfd8483e0ffdb4d8784c3dd7'}
+  - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:7d06edfadeaa6dd017262650663683eb3a9eddd38c5a4272dc6d8b72bd4f1603'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:fc6f5d4371f1fb0bb6ff54fbdac37aed6fd420b0b21afbca0029f67262508182'}
+  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:15711a87de72d8cd100caf4207646d0807a060d7454d8874889411567ab6bca4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 名醫李君墓誌銘
   type: section
   level: 1
-hash: sha256:76b4d9ab94453079ea64f91fe406f27fee4888f38c515c226b1b92b1fbbeaead
+hash: sha256:a588d45a6413a2a8bb14afe1a01df53834e3dced5a7f6e90fd9bbef4a425a520
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
