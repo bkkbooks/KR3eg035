@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg035_000-jc.yaml, hash: 'sha256:6b5505d9bc34921d40bb4517c337a9da0a4a9872cfd8483e0ffdb4d8784c3dd7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg035_000-jc.markers.yaml, hash: 'sha256:b414f3f983c6024cd8ef98a014416e6e2b95cec171c468847959457884b58601'}
+  - {seq: 0, role: markers, filename: assets/KR3eg035_000-jc.markers.yaml, hash: 'sha256:8c2253a371ce746d9e4502d402fe582eb32f9f96ccc4c4f895672facdc3c7a96'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 名醫李君墓誌銘
   type: section
   level: 1
-hash: sha256:834d3f6011ebc91d2cbf24133c9315e1344490a7f1f96aa6e53e8fad86616f5e
+hash: sha256:71c386fcf81363d740b00e691adb059749bdd08adf9a66d6b087e373a5dde1aa

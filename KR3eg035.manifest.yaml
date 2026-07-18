@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eg035_000.yaml, hash: 'sha256:7d06edfadeaa6dd017262650663683eb3a9eddd38c5a4272dc6d8b72bd4f1603'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:15711a87de72d8cd100caf4207646d0807a060d7454d8874889411567ab6bca4'}
+  - {seq: 0, role: markers, filename: assets/KR3eg035_000.markers.yaml, hash: 'sha256:0d17265492e07a01bd406f6527ad4dd3ffef716c5ceac3d6145c5075e06d48a1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,7 @@ table_of_contents:
   label: 名醫李君墓誌銘
   type: section
   level: 1
-hash: sha256:a588d45a6413a2a8bb14afe1a01df53834e3dced5a7f6e90fd9bbef4a425a520
+hash: sha256:273bc4e29684b6022e055e99fb90133362c232f8608caff341f77a01eb46956a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

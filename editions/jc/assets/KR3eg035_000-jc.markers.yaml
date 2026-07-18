@@ -499,6 +499,7 @@ markers:
   - {type: 'tls:seg-end', offset: 1185, content: '', id: KR3eg035_jc_000-d2.p10s19_end, seg_type: comm}
   - {type: 'tls:seg', offset: 1185, content: '', id: KR3eg035_jc_000-d2.p10s20}
   - {type: punctuation, offset: 1187, content: (, id: KR3eg035_jc_000-bkkpn236}
+  - {type: voice, offset: 1187, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1189, content: ), id: KR3eg035_jc_000-bkkpn237}
   - {type: 'tls:seg', offset: 1189, content: '', id: KR3eg035_jc_000-d2.p10s21}
   - {type: 'tls:seg-start', offset: 1192, content: '', id: KR3eg035_jc_000-d2.p10s22, seg_type: comm, member_ids: [KR3eg035_jc_000-d2.p10s22]}
@@ -2156,6 +2157,7 @@ markers:
   - {type: punctuation, offset: 5539, content: ，, id: KR3eg035_jc_000-bkkpn1058}
   - {type: 'tls:seg', offset: 5539, content: '', id: KR3eg035_jc_000-d2.p56s3}
   - {type: punctuation, offset: 5542, content: (, id: KR3eg035_jc_000-bkkpn1059}
+  - {type: voice, offset: 5542, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5543, content: ), id: KR3eg035_jc_000-bkkpn1060}
   - {type: punctuation, offset: 5547, content: ，, id: KR3eg035_jc_000-bkkpn1061}
   - {type: 'tls:seg', offset: 5547, content: '', id: KR3eg035_jc_000-d2.p56s4}
@@ -2164,6 +2166,7 @@ markers:
   - {type: punctuation, offset: 5554, content: ，, id: KR3eg035_jc_000-bkkpn1063}
   - {type: 'tls:seg', offset: 5554, content: '', id: KR3eg035_jc_000-d2.p56s6}
   - {type: punctuation, offset: 5554, content: (, id: KR3eg035_jc_000-bkkpn1064}
+  - {type: voice, offset: 5554, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 5555, content: ), id: KR3eg035_jc_000-bkkpn1065}
   - {type: 'tls:seg', offset: 5555, content: '', id: KR3eg035_jc_000-d2.p56s7}
   - {type: punctuation, offset: 5558, content: ，, id: KR3eg035_jc_000-bkkpn1066}
@@ -4335,4 +4338,4 @@ markers:
   - {type: punctuation, offset: 10585, content: 。, id: KR3eg035_jc_000-bkkpn2133}
   - {type: xml-element, offset: 10585, content: '', id: KR3eg035_jc_000-d5p2_end, name: p, role: close, attrs: {'xml:id': KR3eg035_jc_000-d5p2}}
   back: []
-hash: sha256:b414f3f983c6024cd8ef98a014416e6e2b95cec171c468847959457884b58601
+hash: sha256:8c2253a371ce746d9e4502d402fe582eb32f9f96ccc4c4f895672facdc3c7a96
